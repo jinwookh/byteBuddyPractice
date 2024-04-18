@@ -33,7 +33,7 @@ public class MasulsaAgent {
     }
 }
 ```
-결과:
+결과:   
 <img width="881" alt="image" src="https://github.com/jinwookh/byteBuddyPractice/assets/31182783/e3e88b49-7dfa-4c9f-9cb1-84a0f57d3a00">
 
 
