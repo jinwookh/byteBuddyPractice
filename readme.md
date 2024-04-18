@@ -1,3 +1,5 @@
+** 본 코드는 인프런 백기선 강사님의 '더 자바, 코드를 조작하는 다양한 방법' 수업의 코드입니다.   
+https://www.inflearn.com/course/the-java-code-manipulation/dashboard  
 # 목적
 "hi"를 출력하도록 한 코드를 byte-buddy를 이용하여 "rabbit"을 출력하도록 만든다.
 
