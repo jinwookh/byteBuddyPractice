@@ -1,0 +1,3 @@
+@HelloAnnotation
+public interface World {
+}
